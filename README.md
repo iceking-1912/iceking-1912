@@ -4,7 +4,7 @@ README.md
 
 👋 Hi, I’m @iceking-1912
 
-👀 I’m interested in Python,C++,Javascript 
+👀 I’m interested in Python,C++,Javascript,ML,DS 
 
 🌱 I’m currently learning Python
 
