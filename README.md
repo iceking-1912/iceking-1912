@@ -1,5 +1,3 @@
-README.md
-
 About Me:-
 
 👋 Hi, I’m @iceking-1912
